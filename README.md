@@ -1,2 +1,2 @@
 # nginx-accounting
-Simple Shell script to monitor each config file usage of resources 
+Simple Shell script to monitor each nginx config file usage of resources 
